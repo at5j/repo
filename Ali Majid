@@ -1,9 +1,0 @@
-Origin: test ALI MAJID 
-Label: https://at5j.github.io/repo/ 
-Label: at5j 
-Suite: stable
-Version: 1.0
-Architectures: iphoneos-arm
-Components: main
-Description: سورس خاص للبعض :) 
-Description: repo
