@@ -1,0 +1,29 @@
+Package: co.azozzalfiras.afsocial 
+Version: 2.0.
+Architecture: iphoneos-arm
+Maintainer: Ali AS. Majid
+Depends:
+Conflicts:
+Filename: debs/AFSocial.deb
+Size: 1771050 Bytes
+MD5sum: a2a8d013098e24b13d115871678700fe
+SHA1: 58a49bd4c729d0a133bb3608faa15625295f8fbc
+SHA256: c51f1bd80ba8f5cbc7765e9cf9a6f3aba3dc65e89ad033a49687bfe708733062
+Section: Tweaks
+Depiction: https://at5j.github.io/repo/ 
+Name: AFSocial++
+
+Package: co.azozzalfiras.afsocial 
+Version: 2.0.
+Architecture: iphoneos-arm
+Maintainer: Ali AS. Majid
+Depends:
+Conflicts:
+Filename: debs/AFSocial.deb
+Size: 1771050 Bytes
+MD5sum: a2a8d013098e24b13d115871678700fe
+SHA1: 58a49bd4c729d0a133bb3608faa15625295f8fbc
+SHA256: c51f1bd80ba8f5cbc7765e9cf9a6f3aba3dc65e89ad033a49687bfe708733062
+Section: Tweaks
+Depiction: https://at5j.github.io/repo/ 
+Name: AFSocial++
